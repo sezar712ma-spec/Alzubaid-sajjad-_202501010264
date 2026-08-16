@@ -1,5 +1,5 @@
 // Attributes
-class Student   {
+public class Student {
 String name;
 int age;
 double gpa;
